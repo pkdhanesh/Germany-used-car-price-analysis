@@ -1,6 +1,6 @@
 # Germany-used-car-price-analysis
 Germany used car market analysis and price prediction using Python, EDA, and machine learning.
-# 🇩🇪 Germany Used Car Price Analysis & Prediction
+# 🇩🇪🚘 Germany Used Car Price Analysis & Prediction
 
 ## 📌 Project Overview
 This project analyzes the German used car market and builds a machine learning model to predict vehicle prices based on key features such as age, mileage, horsepower, brand, and model.
@@ -69,7 +69,7 @@ The majority of cars are priced below €20,000, indicating strong demand in the
 ---
 
 ### 🔹 Price vs Mileage
-![Price vs Mileage](price vs milage.png)
+![Price vs Mileage](price_vs_milage.png)
 
 This plot shows a clear negative relationship between mileage and price.
 
@@ -133,4 +133,4 @@ The model explains approximately **93% of the variance**, showing strong predict
 
 ---
 
-## 📂 Project Structure
+
